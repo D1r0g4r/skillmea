@@ -1,0 +1,42 @@
+body {
+    background-color: cornsilk;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-family: 'Calibri';
+    text-shadow: red solid 10px;
+}
+
+h3 {
+    color:crimson;
+    font-family: 'Calibri';
+    font-style: italic;
+    border-bottom: gray solid 2px;
+    padding-bottom: 5px;
+}
+
+p {
+    color: black;
+    font-family: 'Georgia';
+    font-size: 15px;   
+}
+
+div {
+    width: 600px;
+    display: inline-block; /* nastaví prvky vedle sebe */
+    float: left; /* zajistí, aby nezůstávaly mezi nimi mezery */
+    vertical-align: top; /* zarovná horní okraj elementů */
+}
+
+
+.firstdiv {
+    margin-right: 20px;
+}
+
+.seconddiv {
+    margin-left: 20px;
+}
+

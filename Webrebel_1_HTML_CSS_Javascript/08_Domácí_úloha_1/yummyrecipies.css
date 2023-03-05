@@ -1,0 +1,80 @@
+body {
+    background-color: #acabab;
+    background-image: url("hrnek_s_cajem.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+h1 {
+    text-shadow: blue;   
+  }
+
+h2 a {
+    font-family: Arial;
+    color: darkgreen;
+    text-decoration: none;
+}
+
+
+
+.recept {
+    width: 780px;  
+}
+
+.text2 {
+    font-size: 25px;
+    font-family: Arial;
+    color: black;
+    font-style: italic;
+}
+
+li a {
+  font-size: 20px;
+  font-family: Arial;
+  font-style: italic;
+  color: black;
+  text-decoration: none;
+}
+
+li:nth-child(1) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+  }
+
+  li:nth-child(2) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: blue;
+    text-decoration: none;
+  }
+
+  li:nth-child(3) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: yellow;
+    text-decoration: none;
+  }
+
+  li:nth-child(4) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: green;
+    text-decoration: none;
+  }
+
+
+
+.text3 {
+    font-size: 25px;
+    font-family: Arial;
+    color: black;
+line-height: 1.0;
+-webkit-text-stroke: 0px black;
+}
